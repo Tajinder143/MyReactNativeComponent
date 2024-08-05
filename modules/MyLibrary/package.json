@@ -1,0 +1,13 @@
+{
+  "name": "library_react_native",
+  "version": "0.0.0",
+  "description": "this is my rect native library",
+  "main": "src/index",
+  "author": " <> ()",
+  "license": "UNLICENSED",
+  "homepage": "#readme",
+  "create-react-native-library": {
+    "type": "library",
+    "version": "0.40.0"
+  }
+}
